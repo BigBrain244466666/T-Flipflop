@@ -9,12 +9,18 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A sequential logic circuit that toggles its output state (flips from 0 to 1 or 1 to 0) when the "T" input is high and a clock pulse is received. 
 
 ## How to test
 
-Explain how to use your project
+T Q -Q
+0 0 0
+1 0 1
+0 1 1
+1 1 0
+
+Clock going to high
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED to test
